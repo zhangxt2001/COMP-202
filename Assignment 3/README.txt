@@ -1,0 +1,1 @@
+This is essentially about processing the images that are in PGM format. 
